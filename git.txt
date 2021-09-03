@@ -1,0 +1,4 @@
+git config --global http.proxy   
+   	
+git config --global --unset http.proxy   
+
